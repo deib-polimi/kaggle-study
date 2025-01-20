@@ -1,4 +1,5 @@
-# SQUALO - dataSets QUality Analysis and Labelling Operations
+# Datasets Quality Analysis and Labelling Operations
+
 ## Introduction
 
 High-quality data is the cornerstone of successful machine learning models, yet many practitioners bypass the vital step of performing data quality checks. Addressing this gap, our research introduces an automated approach to conduct data quality assessments on tabular data, a common resource in machine learning pipelines.
